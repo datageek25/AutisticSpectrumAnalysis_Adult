@@ -1,6 +1,6 @@
 # AutisticSpectrumAnalysis_Adult
 Analysis and Learning applied on the Autistic Spectrum Disorder Dataset for Adults.
-This project covers the basic Data Science pipeline which includes importing the data, Data Preprocessing, Data Cleaning, Data Visulisation, Modelling the data and then Evaluation.
+This project covers the basic Data Science pipeline which includes importing the data, Data Preprocessing, Data Cleaning, Data Visualisation, Modelling the data and then Evaluation.
 For Classification, following algorithms have been used:
  Decision Trees,
  Random Forest,
